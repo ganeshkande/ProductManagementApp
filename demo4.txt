@@ -1,0 +1,6 @@
+Public void display(){
+
+
+syso("Welcome to Aurangabad");
+
+}
