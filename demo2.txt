@@ -1,0 +1,6 @@
+public void display(){
+
+syso("I am java developer")
+
+
+}
